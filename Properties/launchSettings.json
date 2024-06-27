@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "resolve-trivial-conflicts": {
+      "commandName": "Project",
+      "commandLineArgs": "S:\\repos\\sec97_trunk\\ACS\\ACS\\TAS\\CSTACall.cs"
+    }
+  }
+}
